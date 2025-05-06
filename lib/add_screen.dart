@@ -27,7 +27,7 @@ class AddScreen extends StatelessWidget {
             TextFormField(
               textInputAction: TextInputAction.next,
               decoration: const InputDecoration(
-                hintText: "Name",
+                hintText: "age",
                 border: UnderlineInputBorder(),
               ),
             ),
@@ -37,7 +37,7 @@ class AddScreen extends StatelessWidget {
             TextFormField(
               textInputAction: TextInputAction.next,
               decoration: const InputDecoration(
-                hintText: "Name",
+                hintText: "Salary",
                 border: UnderlineInputBorder(),
               ),
             ),
