@@ -1,8 +1,5 @@
 
-
 import 'package:flutter/material.dart';
-
-
 import 'package:photo_gallery_app/add_screen.dart';
 
 void main() {
